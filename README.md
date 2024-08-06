@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bartłomiej Milewski. I am currently looking for a job in the IT coding industry.
+My name is Bartłomiej Milewski.
 
 - 🔭 I’m currently working on ...
 
@@ -9,7 +9,6 @@ My name is Bartłomiej Milewski. I am currently looking for a job in the IT codi
 * Frontend and backend skills
 * Development of good practices in programming
 * Jira and Github - used to recreate working environments (including code reviews by more experienced colleauges and remote work)
-* Actively looking or a job in the IT industry
 
 - 🌱 I’m currently learning ...
 
